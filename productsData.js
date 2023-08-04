@@ -6,7 +6,7 @@ const productsData = [
         price: 599.99,
         quantity: 100,
         brandName: "TechMaster",
-        image: "https://example.com/images/smartphone_x.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 201,
@@ -33,7 +33,7 @@ const productsData = [
         price: 129.99,
         quantity: 50,
         brandName: "AudioZen",
-        image: "https://example.com/images/headphones.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 203,
@@ -60,7 +60,7 @@ const productsData = [
         price: 899.00,
         quantity: 30,
         brandName: "VisionTech",
-        image: "https://example.com/images/smart_tv.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 205,
@@ -87,7 +87,7 @@ const productsData = [
         price: 1499.99,
         quantity: 20,
         brandName: "GameRig",
-        image: "https://example.com/images/gaming_laptop.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 207,
@@ -114,7 +114,7 @@ const productsData = [
         price: 79.99,
         quantity: 100,
         brandName: "SoundPod",
-        image: "https://example.com/images/earbuds.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 209,
@@ -141,7 +141,7 @@ const productsData = [
         price: 49.95,
         quantity: 150,
         brandName: "FitLife",
-        image: "https://example.com/images/fitness_tracker.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 211,
@@ -168,7 +168,7 @@ const productsData = [
         price: 1799.00,
         quantity: 10,
         brandName: "PhotoPro",
-        image: "https://example.com/images/camera.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 213,
@@ -195,7 +195,7 @@ const productsData = [
         price: 249.50,
         quantity: 75,
         brandName: "TimeTrend",
-        image: "https://example.com/images/watch.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 215,
@@ -223,7 +223,7 @@ const productsData = [
         price: 89.99,
         quantity: 40,
         brandName: "CafeMatic",
-        image: "https://example.com/images/coffee_maker.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 217,
@@ -250,7 +250,7 @@ const productsData = [
         price: 1199.00,
         quantity: 25,
         brandName: "SwiftBook",
-        image: "https://example.com/images/ultrabook.jpg",
+        image: "https://m.media-amazon.com/images/I/412XtEOcI9S._MCnd_AC_.jpg",
         reviews: [
           {
             id: 219,
